@@ -1,0 +1,13 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+
+ Title : 
+ Author : 
+ URL : http://
+
+ Last Updated : 
+
+- - - - - - - - - - - - - - - - - - - - - */
+
+.vertical-label>fieldset>div>span{display:flex;flex-direction:column-reverse;}
+.vertical-label>fieldset>div>span>label{margin: 0 0 -17px 0 !important;text-align: right;width: 100%;}
+.vertical-label>fieldset>div>span>input{align-self:center;}
